@@ -8,7 +8,7 @@ To design an interative Executive Dashboard to show;
 - Anaylsis of the individual engagement metrics to track campaign effectivenes with regards to Channel, Location and Audience.
 - Anaylsis of the overall quaterly trend.
 
-#### Highlight
+#### Highlights
 1. Design Database Management System -Functional ERD; that follow the principles of the 3NF.
 2. Populate the entities with sample dataset and test the deign functionality (performance of the relationship and constraints deigns).
 
