@@ -13,9 +13,9 @@ To design an interative Executive Dashboard to show;
 2. Populate the entities with sample dataset and test the deign functionality (performance of the relationship and constraints deigns).
 
 #### Tools
-SQL - DMS design and testing
-Excel - Dataset cleaning and preparation
-Tableau - Data Visualization and Design Dashboard
+-SQL - DMS design and testing
+-Excel - Dataset cleaning and preparation
+-Tableau - Data Visualization and Design Dashboard
 
 
 In summary, the dashboard provides valuable insights into the effectiveness of our campaigns, helping the organisation to make data-driven decisions to enhance performance.
