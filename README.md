@@ -19,3 +19,5 @@ To design an interative Executive Dashboard to show;
 
 
 In summary, the dashboard provides valuable insights into the effectiveness of our campaigns, helping the organisation to make data-driven decisions to enhance performance.
+
+[Presentation Link](https://drive.google.com/file/d/1iLg9LoUsgYKSBfpRCQgRDWLKggr60RTd/view?usp=drive_link)
